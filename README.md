@@ -6,6 +6,9 @@ Here's the properly formatted `README.md` content for your project:
 ## Description
 This project involves building a prediction model using GST data. It includes data loading, preprocessing, exploratory data analysis (EDA), and building a Fully Connected Neural Network (FCNN) model using TensorFlow and Keras.
 
+
+
+## Installation
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -21,7 +24,6 @@ This project involves building a prediction model using GST data. It includes da
   - [Contribution Guidelines](#contribution-guidelines)
 - [License](#license)
 
-## Installation
 
 Follow these steps to set up the project locally:
 
