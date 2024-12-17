@@ -3,26 +3,26 @@ Here's the properly formatted `README.md` content for your project:
 ```markdown
 # Prediction Model in GST
 
-## Description
+# Description
 This project involves building a prediction model using GST data. It includes data loading, preprocessing, exploratory data analysis (EDA), and building a Fully Connected Neural Network (FCNN) model using TensorFlow and Keras.
 
 
 
-## Installation
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Data](#data)
-- [Scaling and Rounding](#scaling-and-rounding)
-- [Model Training](#model-training)
-- [Results](#results)
-  - [Model Performance](#model-performance)
-  - [Evaluation Metrics](#evaluation-metrics)
-  - [Confusion Matrix](#confusion-matrix)
-- [Creating Issues](#creating-issues)
-- [Contributing](#contributing)
-  - [Contribution Guidelines](#contribution-guidelines)
-- [License](#license)
+#Installation
+# Table of Contents
+- [Installation](##installation)
+- [Usage](##usage)
+- [Data](##data)
+- [Scaling and Rounding](##scaling-and-rounding)
+- [Model Training](##model-training)
+- [Results](##results)
+  - [Model Performance](##model-performance)
+  - [Evaluation Metrics](##evaluation-metrics)
+  - [Confusion Matrix](##confusion-matrix)
+- [Creating Issues](##creating-issues)
+- [Contributing](##contributing)
+  - [Contribution Guidelines](##contribution-guidelines)
+- [License](##license)
 
 
 Follow these steps to set up the project locally:
@@ -69,7 +69,7 @@ The data used in this project includes:
 
 > Note: The data is abstracted as it is real GST data given by the GST Council for the GSTIN Hackathon.
 
-## Scaling and Rounding
+# Scaling and Rounding
 
 The data is scaled using `MinMaxScaler` and rounded to six decimal places for better precision and consistency.
 
