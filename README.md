@@ -22,9 +22,9 @@ This project involves building a prediction model using GST data. It includes da
 
 
 Follow these steps to set up the project locally:
-
-```markdown
 ```bash
+```markdown
+
 # Clone the repository
 git clone https://github.com/yourusername/yourproject.git
 
