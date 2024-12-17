@@ -19,12 +19,11 @@ This project involves building a prediction model using GST data. It includes da
   - [Contribution Guidelines](#contribution-guidelines)
 - [License](#license)
 
-
+## Installation
 
 Follow these steps to set up the project locally:
-```bash
-```markdown
 
+```bash
 # Clone the repository
 git clone https://github.com/yourusername/yourproject.git
 
@@ -47,6 +46,7 @@ pip install numpy tensorflow matplotlib pandas scikit-learn seaborn imblearn
 # Unzip the data file
 tar -xf data.zip
 ```
+
 
 ## Usage
 
